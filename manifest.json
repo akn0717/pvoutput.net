@@ -1,0 +1,908 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Builders.BatchNetStatusPostBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Builders.BatchNetStatusPostBuilder.html",
+          "hash": "93eI/T5KJGhhTfKW4djXOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Builders.ExtendedDataDefinitionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Builders.ExtendedDataDefinitionBuilder.html",
+          "hash": "FUdG4o7d3J3N9PQALwc/dQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Builders.OutputPostBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Builders.OutputPostBuilder.html",
+          "hash": "xsVH6UM+E+ShQKLweSkz3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Builders.StatusPostBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Builders.StatusPostBuilder-1.html",
+          "hash": "V/r7SXFfHyY967MjDeL2Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Builders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Builders.html",
+          "hash": "n9ehqrRlXBp0cMHzIxYK2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.DependencyInjection.PVOutputClientOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.DependencyInjection.PVOutputClientOptions.html",
+          "hash": "SbM0COG9qmFGnBqYOexL1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.DependencyInjection.PVOutputServiceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.DependencyInjection.PVOutputServiceExtensions.html",
+          "hash": "WXXR8nuTPtLnE4W0A+jPAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.DependencyInjection.html",
+          "hash": "S6tejSm/gi/EeB9ynytdXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.AggregationPeriod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.AggregationPeriod.html",
+          "hash": "SAzXWxcnGsVB1rKPsZ5LsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.CumulativeStatusType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.CumulativeStatusType.html",
+          "hash": "ggrRJpru71/5PDwzm1C8ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.ExtendedDataDisplayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.ExtendedDataDisplayType.html",
+          "hash": "1KUibqkBDUzu6u5Pl+NFAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.ExtendedDataIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.ExtendedDataIndex.html",
+          "hash": "1oHbyrirrXeb6yk41RVQJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.Orientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.Orientation.html",
+          "hash": "PQpUu6j5fl5Z48w/HilfQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.PVMonth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.PVMonth.html",
+          "hash": "LIYShW4fV9eY60MRgPm7kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.Shade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.Shade.html",
+          "hash": "DY+UqWZbZv/VYMxh+WWMXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.WeatherCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.WeatherCondition.html",
+          "hash": "WXDgezZ8oaNBFrhqIhOjjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Enums.html",
+          "hash": "4B+6i9YpBShTRorv75+0pA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.IPVOutputClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.IPVOutputClient.html",
+          "hash": "nhpXiwzGduG5tXW6zmW4JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IExtendedService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IExtendedService.html",
+          "hash": "3oQTiBDdEp3fMbGyGYEmOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IFavouriteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IFavouriteService.html",
+          "hash": "L4Na1o3tOcUFRi1mCgFvPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IInsolationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IInsolationService.html",
+          "hash": "m1DJnG6HnN4EoCBj/1HIhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IMissingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IMissingService.html",
+          "hash": "imsoh8zeQLw1XsaHn0VCXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.INotificationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.INotificationService.html",
+          "hash": "ocfrtLaK6Py7cnEQEEMXOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IOutputService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IOutputService.html",
+          "hash": "sxiMDmndkKDmnrlY6gXwkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.ISearchService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.ISearchService.html",
+          "hash": "fo3wEdC72XqIuEQ5lT2yCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IStatisticsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IStatisticsService.html",
+          "hash": "8l4piL4oMHqNcvuxx7we/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.IStatusService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.IStatusService.html",
+          "hash": "iBfPfCcHJE0TEhwYka6DnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.ISupplyService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.ISupplyService.html",
+          "hash": "epPcvTLsyvU6rz1PaaQFPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.ISystemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.ISystemService.html",
+          "hash": "5XTrtQpGDRFYJZSpJNLAYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.ITeamService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.ITeamService.html",
+          "hash": "4wimgM0FNDoYc/Z++kwWmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Modules.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Modules.html",
+          "hash": "WXCjh4i7z1BUGAO03DbZNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ExtendedDataConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ExtendedDataConfiguration.html",
+          "hash": "2GYUI4jKk+nJdOPyb9fisg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IAggregatedOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IAggregatedOutput.html",
+          "hash": "YGVEzGjCC0P2kKtnETay0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IBatchNetStatusPost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IBatchNetStatusPost.html",
+          "hash": "sQZbhbCLkUb2ik5HaN+m0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IBatchStatusPost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IBatchStatusPost.html",
+          "hash": "4PLk73MMHEZ27iKvdKy3zQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IBatchStatusPostResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IBatchStatusPostResult.html",
+          "hash": "1fDGjXi1JZWk5kgg2E8fHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IDayStatistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IDayStatistics.html",
+          "hash": "HfOJD4HyEWe3GEUSQPPqDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IExtended.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IExtended.html",
+          "hash": "vd6hJ0iQg2bfYVsrlNTwIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IExtendedDataDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IExtendedDataDefinition.html",
+          "hash": "P3yKBapIGuBI62saQ8Cpdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IFavourite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IFavourite.html",
+          "hash": "/eatsUIna3M+4aTD6I8GbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IInsolation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IInsolation.html",
+          "hash": "DfXPlqcNKTAMW2DW0Z55oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IMissing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IMissing.html",
+          "hash": "NWqZEsERgCNsGk4si8z6qQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IOutput.html",
+          "hash": "6kZt/6cVSUIjl9XBvMvXjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IOutputPost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IOutputPost.html",
+          "hash": "vRg5e05DW8rHi/at6E9Mug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IStatistic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IStatistic.html",
+          "hash": "O6ZHNV/B5hwOHeY7NhOtJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IStatus.html",
+          "hash": "WW2OafrTy07b70huzX0DFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IStatusHistory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IStatusHistory.html",
+          "hash": "2swRIxk0xV6y4t3H55FW6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.IStatusPost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.IStatusPost.html",
+          "hash": "w5GGhnYpCds8RutkQ0k17w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ISupply.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ISupply.html",
+          "hash": "Oy97gUyo+tc6mavMuX9S8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ISystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ISystem.html",
+          "hash": "qtKEl41OMvgNsZvCVPlVlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ISystemSearchResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ISystemSearchResult.html",
+          "hash": "VuVNsHsP9pwGBfRrMsEIuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ITeam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ITeam.html",
+          "hash": "zlou0c1bYSFKSuWe998Wjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.ITeamOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.ITeamOutput.html",
+          "hash": "fD12IH4GtvTsuI1AP5QxVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.PVCoordinate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.PVCoordinate.html",
+          "hash": "gIb20cJWJjMO0WmglmfUrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Objects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Objects.html",
+          "hash": "0G1d+qB3Sx7nJzHH/NB8nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.PVOutputClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.PVOutputClient.html",
+          "hash": "iaKzzUtKAM9DznzueWt9sQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputApiError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputApiError.html",
+          "hash": "4mXClOftx8zyIQepsjkLtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputApiRateInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputApiRateInformation.html",
+          "hash": "sSFYHlBfOt27IBZARQMaMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputArrayResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputArrayResponse-1.html",
+          "hash": "V3ChQE3YMJWcsrVNG0ARLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputBaseResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputBaseResponse.html",
+          "hash": "cY/s50kAgH/I8o9cParAdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputBasicResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputBasicResponse.html",
+          "hash": "OR1FwqmR602nTp6Dsz8gjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputException.html",
+          "hash": "y+ZIo5/16JWjPX7b24WjRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.PVOutputResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.PVOutputResponse-1.html",
+          "hash": "fdiBvJapyDZWcBHP4bquKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.Responses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.Responses.html",
+          "hash": "y2i9nQphioQ/JzgLdTzzxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PVOutput.Net.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PVOutput.Net.html",
+          "hash": "PmvKjQCvr8yQalsSOTeoIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "0Y2YwneVgPABWVe8uK6MlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coverage.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coverage.html",
+          "hash": "dmJ+CK+vIha+iS2PQK/AnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "1AwuFkrJn66HYOAbHA/RbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "WOLywUKz5o/OpBJptDdrag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "hF2axyrvHGFRqqQWxcTGxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 65,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
